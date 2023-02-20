@@ -875,10 +875,10 @@
   "resolved" "https://registry.npmjs.org/tslib/-/tslib-1.10.0.tgz"
   "version" "1.10.0"
 
-"typescript@*", "typescript@^4", "typescript@^4.8.2":
-  "integrity" "sha512-C0I1UsrrDHo2fYI5oaCGbSejwX4ch+9Y5jTQELvovfmFkK3HHSZJB8MSJcWLmCUBzQBchCrZ9rMRV6GuNrvGtw=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.8.2.tgz"
-  "version" "4.8.2"
+"typescript@*", "typescript@^4", "typescript@^4.9.3":
+  "integrity" "sha512-CIfGzTelbKNEnLpLdGFgdyKhG23CKdKgQPOBc+OUNrkJ2vr+KSzsSV5kq5iWhEQbok+quxgGzrAtGWCyU7tHnA=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.9.3.tgz"
+  "version" "4.9.3"
 
 "uri-js@^4.2.2":
   "integrity" "sha512-KY9Frmirql91X2Qgjry0Wd4Y+YTdrdZheS8TFwvkbLWf/G5KNJDCh6pKL5OZctEW4+0Baa5idK2ZQuELRwPznQ=="

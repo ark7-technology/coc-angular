@@ -1,7 +1,7 @@
 {
   "name": "@ark7/coc-angular",
   "description": "Editor services for Angular templates",
-  "version": "15.1.0",
+  "version": "15.1.1",
   "keywords": [
     "coc.nvim",
     "angular",
